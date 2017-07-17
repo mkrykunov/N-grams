@@ -13,17 +13,26 @@ text file that is also provided in the above mentioned course.
 However, there is also an option in this program to eliminate 
 repetitions, so that all N-grams are unique.
 
-The 'raw_sentences.txt' file has the following forma:
+The 'raw_sentences.txt' file has the following format:
+
 This is a first sentence .
+
 This is a second sentence .
+
 ...
 
 The 'vocabulary.txt' file has the following format:
+
 word1
+
 word2
+
 ...
 
 The 'ngramInt.txt' has the following format:
+
 num1 num2 num3 num4
+
 num2 num3 num4 num5
+
 ...
